@@ -87,7 +87,7 @@ This project addresses:
 ---
 
 👀 **Explore the full project on GitHub**:  
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-black)](https://github.com/Ayush245101/Ecommerce-Customer-Support-CSAT-Analysis)
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-black)](https://github.com/Ayush245101/DeepCSAT-E-Commerce-Customer-Satisfaction-Score-Prediction/tree/main)
 
 ---
 
