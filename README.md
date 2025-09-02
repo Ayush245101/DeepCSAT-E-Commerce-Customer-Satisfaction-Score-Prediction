@@ -72,7 +72,7 @@ This project addresses:
 | Model                  | Task         | Metrics / Results                       |
 |------------------------|-------------|-----------------------------------------|
 | ANN Regression         | Predict CSAT | R² ≈ 0.047 (moderate predictive power)  |
-| ANN Classification     | High/Low CSAT | Accuracy: **82.9%**, Confusion Matrix   |
+| ANN Classification     | High/Low CSAT | Accuracy: **81.8%**, Confusion Matrix   |
 
 📌 *Classification outperformed regression in terms of actionable insights.*
 
